@@ -1,2 +1,2 @@
 # Coursera_Capstone
-## File named Final Assignment is the one to be reviewed. 
+## Files named Final Assignment is the one to be reviewed. 
